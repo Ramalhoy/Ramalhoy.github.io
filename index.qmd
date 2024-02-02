@@ -1,10 +1,24 @@
 ---
-title: "Ramalhoy.github.io"
+title: "Yago Ramalho"
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/yago-ramalho-silva-45a52426b/
+    - text: Lattes
+      href: http://lattes.cnpq.br/5230414456621544
+    - text: Email
+      href: yagoramalho8@gmail.com
 ---
 
-This is a Quarto website.
+Bacharel em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Tenho experiência com análise de dados, aplicação de métodos quantitativos a problemas econômicos, e redação técnica/científica. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Durante a graduação, busquei uma formação com ênfase em estatística/econometria e matemática. Em particular, fui por duas vezes bolsista de Iniciação Científica (PIIC), onde desenvolvi pesquisas em econometria financeira (metodologia de séries temporais) e dados em painel. Também fui bolsista pelo Programa de Educação Tutorial (PET-Economia/UFES). 
+
+Possuo experiência com R (especialmente cross-section e painel), Power BI e Eviews, domínio de Office e noções de SQL e LaTeX. Destaco também competência para leitura, escrita e tradução de idiomas estrangeiros.
 
 ```{r}
 1 + 1

@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Ramalhoy.github.io"
+  title: "Yago Ramalho"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - portfolio.qmd
 
 format:
   html:
