@@ -1,5 +1,6 @@
 ---
 title: "Yago Ramalho"
+image: pic.jpg
 toc: false
 about:
   template: trestles
