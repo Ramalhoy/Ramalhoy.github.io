@@ -11,7 +11,7 @@ about:
     - text: Lattes
       href: http://lattes.cnpq.br/5230414456621544
     - text: Email
-      href: yagoramalho8@gmail.com
+      href: mailto::yagoramalho8@gmail.com
 ---
 
 Bacharel em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Tenho experiência com análise de dados, aplicação de métodos quantitativos a problemas econômicos, e redação técnica/científica. 
@@ -20,6 +20,3 @@ Durante a graduação, busquei uma formação com ênfase em estatística/econom
 
 Possuo experiência com R (especialmente cross-section e painel), Power BI e Eviews, domínio de Office e noções de SQL e LaTeX. Destaco também competência para leitura, escrita e tradução de idiomas estrangeiros.
 
-```{r}
-1 + 1
-```
