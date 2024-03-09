@@ -5,9 +5,9 @@ editor: visual
 
 Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com minha participação, assim como uma descrição de minhas competências técnicas.
 
-## Ferramentas
+## Ferramentas 
 
-- **Análise de dados**: R, Eviews, Stata, SQL, Excel, Power BI, LaTeX
+- **Análise de dados**: R, Eviews, Stata, SQL, Office, Power BI, LaTeX
 - **Certificações relevantes**: Introdução à Economia Matemática (IMPA); Microsoft Power BI Para Business Intelligence e Data Science (Data Science Academy); Gestão Ágil com Scrum (Udemy); English Course (British Council); Banco de Dados e SQL (Udemy).
  
 
