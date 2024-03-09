@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Um pouco sobre mim",
+    "section": "",
+    "text": "Sempre me vi como uma pessoa de muitos interesses particulares: de literatura a matemática pura, tomo por princípio que não posso afirmar se gosto ou não de determinado assunto se nunca tentei estudá-lo ou pelo menos apreciar o que tem a oferecer.\nEvidentemente, a curiosidade pela realidade ao meu redor exigiu, com o passar dos anos, disciplina e seletividade. A busca por alguma forma de conciliar tudo isso se traduziu no estudo de metodologias que me permitissem absorver um pouquinho de cada tema, justificando assim uma formação que contemplasse muitas possibilidades de interseção das diferentes áreas de conhecimento (economia), com uma ênfase que me possibilitasse transitar entre problemáticas diversas (estatística).\nGosto de me descrever como alguém que aprecia encontrar formas de resolver problemas — me fascina na medida em que enxergo nas áreas de dados a possibilidade de transformar a curiosidade teórica e intelectual em algo tangível e com impacto.\nEnquanto economista, minha formação está intrinsecamente ligada à pesquisa: fui pesquisador Jr. durante o Ensino Médio (em Psicologia comportamental), e posteriormente desenvolvi pesquisas em econometria de séries temporais (onde estudei a interrelação entre séries financeiras no contexto de crises) e dados em painel (avaliei as correlações entre despesas públicas por função e produtividade nos estados brasileiros), ambas utilizando R.\nAinda na graduação, participei de grupos de estudo e pesquisa em econometria e políticas públicas, além de ter sido membro bolsista do PET - Economia. No lado mais apaixonado da experiência universitária, também estudei meia dúzia de idiomas, sendo fluente em inglês mas completamente capaz de ler e traduzir francês e espanhol, com alguma experiência em outros. Se me perguntassem o que considero ser meu “dom”, sem dúvidas diria linguagens: gosto de ler e escrever tanto quanto de revisar e traduzir.\nProfissionalmente, fui estagiário do Núcleo de Avaliação de Tendências e Riscos (NATR), no Tribunal de Contas (TCEES) por dois anos. Participei de atividades tradicionais como redação de boletins, coleta de dados, elaboração de painéis e gráficos, etc. Com o tempo, me tornei mais ativo nos projetos internos do núcleo, que incluíam elaboração de indicadores, elaboração de notas técnicas, além de auxiliar na inclusão de novos membros.\nAcredito na troca: no momento busco um ambiente que me permita crescer dentro de tudo isso que venho construindo, na mesma medida em que posso oferecer um pouco daquilo que aprendi e acredito: disciplina, rigor, e um excesso de curiosidade."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yago Ramalho",
@@ -7,10 +14,52 @@
     "text": "Bacharel em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Tenho experiência com análise de dados, aplicação de métodos quantitativos a problemas econômicos, e redação técnica/científica.\nDurante a graduação, busquei uma formação com ênfase em estatística/econometria e matemática. Em particular, fui por duas vezes bolsista de Iniciação Científica (PIIC), onde desenvolvi pesquisas em econometria financeira (metodologia de séries temporais) e dados em painel. Também fui bolsista pelo Programa de Educação Tutorial (PET-Economia/UFES).\nPossuo experiência com R (especialmente cross-section e painel), Power BI e Eviews, domínio de Office e noções de SQL e LaTeX. Destaco também competência para leitura, escrita e tradução de idiomas estrangeiros."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfólio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com minha participação, assim como uma descrição de minhas competências técnicas."
+  },
+  {
+    "objectID": "portfolio.html#ferramentas",
+    "href": "portfolio.html#ferramentas",
+    "title": "Portfólio",
+    "section": "Ferramentas",
+    "text": "Ferramentas\n\nAnálise de dados: R, Eviews, Stata, SQL, Excel\nCertificações relevantes"
+  },
+  {
+    "objectID": "portfolio.html#principais-experiências",
+    "href": "portfolio.html#principais-experiências",
+    "title": "Portfólio",
+    "section": "Principais experiências",
+    "text": "Principais experiências"
+  },
+  {
+    "objectID": "portfolio.html#formação",
+    "href": "portfolio.html#formação",
+    "title": "Portfólio",
+    "section": "Formação",
+    "text": "Formação\n\nGraduação em Ciências Econômicas, UFES, 2023\n\nÊnfase em métodos estatísticos e econométricos;\nParticipou de grupos de estudo e pesquisa em políticas públicas, econometria e conjuntura econômica;\nBolsista do Programa de Educação Tutorial (PET)"
+  },
+  {
+    "objectID": "portfolio.html#miscelânea",
+    "href": "portfolio.html#miscelânea",
+    "title": "Portfólio",
+    "section": "Miscelânea",
+    "text": "Miscelânea\n\nSou apaixonado por literatura e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis\nTexto sobre cinema para disciplina que foi publicado"
+  },
+  {
+    "objectID": "portfolio.html#papers",
+    "href": "portfolio.html#papers",
+    "title": "Portfólio",
+    "section": "Papers",
+    "text": "Papers\n\nProdutividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel (com Edson Zambon Monte)"
+  },
+  {
+    "objectID": "portfolio.html#pesquisas",
+    "href": "portfolio.html#pesquisas",
+    "title": "Portfólio",
+    "section": "Pesquisas",
+    "text": "Pesquisas\n\nProdutividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel (com Edson Zambon Monte)\nInter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo (primeiro projeto científico que desenvolvi na universidade)\nJovens Mediadores da Prevenção do Uso de Drogas (Iniciação Científica Jr. no campo da psicologia, realizada durante o Ensino Médio)"
   }
 ]
