@@ -1,4 +1,33 @@
 ---
-title: "Portfólio"
+title: "**Portfólio**"
 editor: visual
 ---
+
+Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com minha participação, assim como uma descrição de minhas competências técnicas.
+
+## Ferramentas
+
+- **Análise de dados**: R, Eviews, Stata, SQL, Excel
+- **Certificações relevantes** 
+
+## Principais experiências
+
+## Formação
+
+- **Graduação em Ciências Econômicas**, UFES, 2023
+  - Ênfase em métodos estatísticos e econométricos;
+  - Participou de grupos de estudo e pesquisa em políticas públicas, econometria e conjuntura econômica;
+  - Bolsista do Programa de Educação Tutorial (PET)
+
+## Pesquisas
+
+- [Produtividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel](https://doity.com.br/anais/eees2023/trabalho/306273) (com Edson Zambon Monte)
+- [Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises
+ por meio do modelo vetorial autorregressivo](https://drive.google.com/file/d/1szCXqUf-ZPsOac-DTxJYOMHmSIXM1ufx/view?usp=sharing) (primeiro projeto científico que desenvolvi na universidade)
+- Jovens Mediadores da Prevenção do Uso de Drogas (Iniciação Científica Jr. no campo da psicologia, realizada durante o Ensino Médio)
+
+
+## Miscelânea
+
+- Sou apaixonado por literatura e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis
+- [Texto sobre cinema para disciplina que foi publicado](https://periodicos.ufes.br/peteconomia/article/view/36449)

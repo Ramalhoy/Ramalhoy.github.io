@@ -5,11 +5,15 @@ project:
 website:
   title: "Yago Ramalho"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - href: about.qmd 
+        text: Sobre
       - href: portfolio.qmd
         text: Portfólio
+      - href: https://docs.google.com/document/d/1aed2Jto7OpnEGyuvJLB8evv3iQ7vrWu-/edit?usp=sharing&ouid=106020735101924304487&rtpof=true&sd=true
+        text: CV  
 
 format:
   html:
