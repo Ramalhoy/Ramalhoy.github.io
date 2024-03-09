@@ -7,10 +7,24 @@ Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com 
 
 ## Ferramentas
 
-- **Análise de dados**: R, Eviews, Stata, SQL, Excel
-- **Certificações relevantes** 
+- **Análise de dados**: R, Eviews, Stata, SQL, Excel, Power BI, LaTeX
+- **Certificações relevantes**: Introdução à Economia Matemática (IMPA); Microsoft Power BI Para Business Intelligence e Data Science (Data Science Academy); Gestão Ágil com Scrum (Udemy); English Course (British Council); Banco de Dados e SQL (Udemy).
+ 
 
 ## Principais experiências
+
+- **Estagiário do Núcleo de Avaliação de Tendências e Riscos**: algumas das atividades realizadas incluem: coleta, tratamento e análise de dados estaduais com o objetivo de subsidiar ações de controle externo; revisão e escrita de notas técnicas, boletins, e outros instrumentos informativos, além da elaboração de formatos padronizados para publicações periódicas; e elaboração de gráficos, tabelas e dashboards. As atividades exigiam uso constante de Excel e eventualmente de Power Bi e Tableau. 
+
+- **Bolsista do Programa de Educação Tutorial (PET)**: programa que tem como intuito realizar atividades pautadas pelo princípio de indissociabilidade do tripé acadêmico (pesquisa, ensino e extensão), complementando a formação acadêmica. O caráter organizacional do programa demanda, por parte dos bolsistas, proatividade, autogestão, boa capacidade de comunicação e aptidão para trabalho em grupo. Realiza minicursos para a comunidade interna e externa, elaboração de artigos científicos na área de economia, apresentação de seminários referentes à pesquisas individuais, publicação de textos sobre temas correntes no cenário econômico e social, entre outras atividades.
+
+- **Pesquisador bolsista**: Dois projetos:  
+1. Título: Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo.
+Pesquisa no campo de econometria financeira e séries temporais. Objetivou avaliar o grau de interdependência entre o índice Standard & Poor's 500 (SP500) e o mercado acionário brasileiro no contexto da crise do subprime.
+
+2. Título: Produtividade total dos fatores e despesas públicas dos estados brasileiros: uma aplicação de dados em painel.
+Objetivou estimar a produtividade total dos fatores (PTF) dos estados brasileiros e avaliar o impacto de suas respectivas despesas públicas por funções na PTF estadual a partir de metodologias de dados em painel.
+
+Ambas as pesquisas foram realizadas utilizando o R.
 
 ## Formação
 
