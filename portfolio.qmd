@@ -7,8 +7,8 @@ Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com 
 
 ## Ferramentas 
 
-- **Análise de dados**: R, Eviews, Stata, SQL, Office, Power BI, LaTeX
-- **Certificações relevantes**: Introdução à Economia Matemática (IMPA); Microsoft Power BI Para Business Intelligence e Data Science (Data Science Academy); Gestão Ágil com Scrum (Udemy); English Course (British Council); Banco de Dados e SQL (Udemy).
+- **Análise de dados**: R, Eviews, Stata, SQL, Office, Power BI, LaTeX, Python
+- **Certificações relevantes**: Introdução à Economia Matemática (IMPA); Microsoft Power BI Para Business Intelligence e Data Science (DSA); Gestão Ágil com Scrum (Udemy); English Course (British Council); Banco de Dados e SQL (Udemy); Fundamentos de Linguagem Python Para Análise de Dados e Data Science (DSA).
  
 
 ## Principais experiências
@@ -18,13 +18,14 @@ Aqui estão dispostos alguns dos trabalhos científicos de minha autoria ou com 
 - **Bolsista do Programa de Educação Tutorial (PET)**: programa que tem como intuito realizar atividades pautadas pelo princípio de indissociabilidade do tripé acadêmico (pesquisa, ensino e extensão), complementando a formação acadêmica. O caráter organizacional do programa demanda, por parte dos bolsistas, proatividade, autogestão, boa capacidade de comunicação e aptidão para trabalho em grupo. Realiza minicursos para a comunidade interna e externa, elaboração de artigos científicos na área de economia, apresentação de seminários referentes à pesquisas individuais, publicação de textos sobre temas correntes no cenário econômico e social, entre outras atividades.
 
 - **Pesquisador bolsista**: Dois projetos:  
-1. Título: Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo.
-Pesquisa no campo de econometria financeira e séries temporais. Objetivou avaliar o grau de interdependência entre o índice Standard & Poor's 500 (SP500) e o mercado acionário brasileiro no contexto da crise do subprime.
 
-2. Título: Produtividade total dos fatores e despesas públicas dos estados brasileiros: uma aplicação de dados em painel.
+1. Título: [Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo] ((https://github.com/Ramalhoy/VARmodel).
+Pesquisa no campo de econometria financeira e séries temporais. Objetivou avaliar o grau de interdependência entre o índice Standard & Poor's 500 (SP500) e o mercado acionário brasileiro no contexto da crise do subprime. Foi minha introdução ao mundo da estatística/econometria e, assim sendo, tem um rostinho de case iniciante para portfólio. 
+
+2. Título: [Produtividade total dos fatores e despesas públicas dos estados brasileiros: uma aplicação de dados em painel] (https://github.com/Ramalhoy/TFPexpenditure).
 Objetivou estimar a produtividade total dos fatores (PTF) dos estados brasileiros e avaliar o impacto de suas respectivas despesas públicas por funções na PTF estadual a partir de metodologias de dados em painel.
 
-Ambas as pesquisas foram realizadas utilizando o R.
+Ambas as pesquisas foram realizadas utilizando o R. Os códigos e descrição dos trabalhos podem ser encontrados no hyperlink para uma. 
 
 ## Formação
 
@@ -33,15 +34,14 @@ Ambas as pesquisas foram realizadas utilizando o R.
   - Participou de grupos de estudo e pesquisa em políticas públicas, econometria e conjuntura econômica;
   - Bolsista do Programa de Educação Tutorial (PET)
 
-## Pesquisas
+## Pesquisas publicadas
 
 - [Produtividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel](https://doity.com.br/anais/eees2023/trabalho/306273) (com Edson Zambon Monte)
-- [Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises
- por meio do modelo vetorial autorregressivo](https://drive.google.com/file/d/1szCXqUf-ZPsOac-DTxJYOMHmSIXM1ufx/view?usp=sharing) (primeiro projeto científico que desenvolvi na universidade)
 - Jovens Mediadores da Prevenção do Uso de Drogas (Iniciação Científica Jr. no campo da psicologia, realizada durante o Ensino Médio)
 
 
 ## Miscelânea
 
-- Sou apaixonado por literatura e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis
+- Sou apaixonado por literatura (para interessados, eis meu [Goodreads](https://www.goodreads.com/user/show/65394110-ramalho); também já publiquei alguns poemas em revistas) e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis. 
+- Está nos meus planos, para o futuro próximo, entrar em competições de powerlifting.  
 - [Texto sobre cinema para disciplina que foi publicado](https://periodicos.ufes.br/peteconomia/article/view/36449)
