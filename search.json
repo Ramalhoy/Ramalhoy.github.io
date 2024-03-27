@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Yago Ramalho",
     "section": "",
-    "text": "Bacharel em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Tenho experiência com análise de dados, aplicação de métodos quantitativos a problemas econômicos, e redação técnica/científica.\nDurante a graduação, busquei uma formação com ênfase em estatística/econometria e matemática. Em particular, fui por duas vezes bolsista de Iniciação Científica (PIIC), onde desenvolvi pesquisas em econometria financeira (metodologia de séries temporais) e dados em painel. Também fui bolsista pelo Programa de Educação Tutorial (PET-Economia/UFES).\nPossuo experiência com R (especialmente cross-section e painel), Power BI e Eviews, domínio de Office e noções de SQL e LaTeX. Destaco também competência para leitura, escrita e tradução de idiomas estrangeiros."
+    "text": "Bacharel em Ciências Econômicas pela Universidade Federal do Espírito Santo (UFES). Tenho experiência com análise de dados, aplicação de métodos quantitativos a problemas econômicos, e redação técnica/científica.\nDurante a graduação, busquei uma formação com ênfase em estatística/econometria e matemática. Em particular, fui por duas vezes bolsista de Iniciação Científica (PIIC), onde desenvolvi pesquisas em econometria financeira (metodologia de séries temporais) e dados em painel. Também fui bolsista pelo Programa de Educação Tutorial (PET-Economia/UFES).\nPossuo experiência com R (especialmente cross-section e painel), Power BI e Eviews, domínio de Office e experiência com SQL e LaTeX. Destaco também competência para leitura, escrita e tradução de idiomas estrangeiros."
   },
   {
     "objectID": "portfolio.html",
@@ -25,14 +25,14 @@
     "href": "portfolio.html#ferramentas",
     "title": "Portfólio",
     "section": "Ferramentas",
-    "text": "Ferramentas\n\nAnálise de dados: R, Eviews, Stata, SQL, Excel\nCertificações relevantes"
+    "text": "Ferramentas\n\nAnálise de dados: R, Eviews, Stata, SQL, Office, Power BI, LaTeX, Python\nCertificações relevantes: Introdução à Economia Matemática (IMPA); Microsoft Power BI Para Business Intelligence e Data Science (DSA); Gestão Ágil com Scrum (Udemy); English Course (British Council); Banco de Dados e SQL (Udemy); Fundamentos de Linguagem Python Para Análise de Dados e Data Science (DSA)."
   },
   {
     "objectID": "portfolio.html#principais-experiências",
     "href": "portfolio.html#principais-experiências",
     "title": "Portfólio",
     "section": "Principais experiências",
-    "text": "Principais experiências"
+    "text": "Principais experiências\n\nEstagiário do Núcleo de Avaliação de Tendências e Riscos: algumas das atividades realizadas incluem: coleta, tratamento e análise de dados estaduais com o objetivo de subsidiar ações de controle externo; revisão e escrita de notas técnicas, boletins, e outros instrumentos informativos, além da elaboração de formatos padronizados para publicações periódicas; e elaboração de gráficos, tabelas e dashboards. As atividades exigiam uso constante de Excel e eventualmente de Power Bi e Tableau.\nBolsista do Programa de Educação Tutorial (PET): programa que tem como intuito realizar atividades pautadas pelo princípio de indissociabilidade do tripé acadêmico (pesquisa, ensino e extensão), complementando a formação acadêmica. O caráter organizacional do programa demanda, por parte dos bolsistas, proatividade, autogestão, boa capacidade de comunicação e aptidão para trabalho em grupo. Realiza minicursos para a comunidade interna e externa, elaboração de artigos científicos na área de economia, apresentação de seminários referentes à pesquisas individuais, publicação de textos sobre temas correntes no cenário econômico e social, entre outras atividades.\nPesquisador bolsista: Dois projetos:\n\n\nTítulo: [Inter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo] ((https://github.com/Ramalhoy/VARmodel). Pesquisa no campo de econometria financeira e séries temporais. Objetivou avaliar o grau de interdependência entre o índice Standard & Poor’s 500 (SP500) e o mercado acionário brasileiro no contexto da crise do subprime. Foi minha introdução ao mundo da estatística/econometria e, assim sendo, tem um rostinho de case iniciante para portfólio.\nTítulo: [Produtividade total dos fatores e despesas públicas dos estados brasileiros: uma aplicação de dados em painel] (https://github.com/Ramalhoy/TFPexpenditure). Objetivou estimar a produtividade total dos fatores (PTF) dos estados brasileiros e avaliar o impacto de suas respectivas despesas públicas por funções na PTF estadual a partir de metodologias de dados em painel.\n\nAmbas as pesquisas foram realizadas utilizando o R. Os códigos e descrição dos trabalhos podem ser encontrados no hyperlink para uma."
   },
   {
     "objectID": "portfolio.html#formação",
@@ -42,24 +42,24 @@
     "text": "Formação\n\nGraduação em Ciências Econômicas, UFES, 2023\n\nÊnfase em métodos estatísticos e econométricos;\nParticipou de grupos de estudo e pesquisa em políticas públicas, econometria e conjuntura econômica;\nBolsista do Programa de Educação Tutorial (PET)"
   },
   {
-    "objectID": "portfolio.html#miscelânea",
-    "href": "portfolio.html#miscelânea",
-    "title": "Portfólio",
-    "section": "Miscelânea",
-    "text": "Miscelânea\n\nSou apaixonado por literatura e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis\nTexto sobre cinema para disciplina que foi publicado"
-  },
-  {
-    "objectID": "portfolio.html#papers",
-    "href": "portfolio.html#papers",
-    "title": "Portfólio",
-    "section": "Papers",
-    "text": "Papers\n\nProdutividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel (com Edson Zambon Monte)"
-  },
-  {
     "objectID": "portfolio.html#pesquisas",
     "href": "portfolio.html#pesquisas",
     "title": "Portfólio",
     "section": "Pesquisas",
     "text": "Pesquisas\n\nProdutividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel (com Edson Zambon Monte)\nInter-relações entre o S&P 500 e o mercado acionário brasileiro: análises por meio do modelo vetorial autorregressivo (primeiro projeto científico que desenvolvi na universidade)\nJovens Mediadores da Prevenção do Uso de Drogas (Iniciação Científica Jr. no campo da psicologia, realizada durante o Ensino Médio)"
+  },
+  {
+    "objectID": "portfolio.html#miscelânea",
+    "href": "portfolio.html#miscelânea",
+    "title": "Portfólio",
+    "section": "Miscelânea",
+    "text": "Miscelânea\n\nSou apaixonado por literatura (para interessados, eis meu Goodreads; também já publiquei alguns poemas em revistas) e idiomas, e um interesse sempre chamou o outro. Fluente em inglês e com domínio avançado em francês e espanhol, também consigo ler com certa tranquilidade em italiano. Já estudei, por conta própria ou via cursos: hebraico, mandarim, árabe libanês, grego moderno, latim e japonês, alguns com professores nativos. O objetivo é sempre alcançar um estágio em que tanto a leitura fluída quanto a tradução sejam possíveis.\nEstá nos meus planos, para o futuro próximo, entrar em competições de powerlifting.\n\nTexto sobre cinema para disciplina que foi publicado"
+  },
+  {
+    "objectID": "portfolio.html#pesquisas-publicadas",
+    "href": "portfolio.html#pesquisas-publicadas",
+    "title": "Portfólio",
+    "section": "Pesquisas publicadas",
+    "text": "Pesquisas publicadas\n\nProdutividade Total dos Fatores e Despesas Públicas dos Estados Brasileiros: Uma Aplicação de Dados em Painel (com Edson Zambon Monte)\nJovens Mediadores da Prevenção do Uso de Drogas (Iniciação Científica Jr. no campo da psicologia, realizada durante o Ensino Médio)"
   }
 ]
